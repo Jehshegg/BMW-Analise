@@ -8,7 +8,7 @@
 
 **📊 Análise de Vendas da BMW na América do Sul**
 
-Este projeto tem como objetivo analisar o desempenho da BMW na América do Sul nos últimos 3 anos, explorando métricas de vendas, receita e preferências dos consumidores. O estudo foi desenvolvido em Python, utilizando bibliotecas de análise de dados e visualização, e apresenta insights estratégicos que podem apoiar a tomada de decisão no setor automotivo.
+Este projeto tem como objetivo analisar o desempenho da BMW na América do Sul nos últimos 3 anos, explorando métricas de vendas, receita e preferências dos consumidores. O estudo foi desenvolvido em Python, utilizando bibliotecas de análise de dados e visualização, e apresenta insights estratégicos que podem apoiar a tomada de decisão.
 
 🔑 Principais KPIs Analisados
 
